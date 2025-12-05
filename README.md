@@ -1,16 +1,13 @@
-## Hi there 👋
+**Software Developer | ERP Specialist**
+Building robust financial and fiscal software solutions since 2012.
 
-<!--
-**RaulWW/RaulWW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Core Stack
+* **Legacy & Backend:** Delphi, C#, SQL (Firebird, MySQL, MariaDB).
+* **Domain Expertise:** ERP Logic, Fiscal Integrations (NFe/NFCe/SPED), Payments (PIX/Boleto).
 
-Here are some ideas to get you started:
+### Infrastructure & DevOps
+* **Environment:** Linux, WSL, Docker, Portainer.
+* **Cloud & Network:** AWS, Cloudflare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+* Modern Web Standards (HTML/CSS) & System Architecture.
